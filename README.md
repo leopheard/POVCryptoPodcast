@@ -1,6 +1,10 @@
-<a href="kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="">xxxxxxxxxx</a> podcast.<br>
+<a href="kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="https://povcryptopod.libsyn.com/">POV Crypto Podcast</a> podcast.<br>
 
-<img src=""><br>
+<img src="https://podcastaddict.com/cache/artwork/thumb/2249696"><br>
+
+POV Crypto Podcast: Your Crypto Echo-Chamber Dies Here.
+
+Industry insiders David Hoffman and Christian Keroles, explore the markets, news, and interesting topics in cryptocurrency. POV Crypto offers listeners a diverse range of perspective from their experience living this brave new blockchain world. Please follow the show on Twitter <a href="www.twitter.com/@POVCryptopod">@POVCryptoPod</a>, David Hoffman on Twitter & Medium <a href="www.twitter.com/@trustless_state">Trustless_State</a> Christian Keroles on <a href="www.twitter.com/@reallife_ck">Christian Keroles</a><br>
 
 <a href="www.kodi.tv">Kodi</a> (formerly known as XBMC) is an award-winning free and open source (GPL) software media player and entertainment hub that can be installed on Linux, OSX, Windows, iOS and Android, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.<br>
 

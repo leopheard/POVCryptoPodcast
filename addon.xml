@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.audio." name="xxxxx" version="1.0.0" provider-name="leopheard">
+<addon id="plugin.audio.POVcryptopodcast" name="POV Crypto Podcast" version="1.0.0" provider-name="leopheard">
   <requires>
     <import addon="xbmc.python" version="2.26.0"/>
     <import addon="script.module.xbmcswift2" version="2.4.0"/>
@@ -13,19 +13,19 @@
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
     <language>en_us</language>
-    <summary lang="en">xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</summary>
-    <description lang="en">xxxddddxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</description>
+    <summary lang="en">POV Crypto Podcast</summary>
+    <description lang="en">POV Crypto Podcast: Your Crypto Echo-Chamber Dies Here. Industry insiders David Hoffman and Christian Keroles, explore the markets, news, and interesting topics in cryptocurrency. POV Crypto offers listeners a diverse range of perspective from their experience living this brave new blockchain world. Please follow the show on Twitter <a href="www.twitter.com/@POVCryptopod">@POVCryptoPod</a>, David Hoffman on Twitter and Medium <a href="www.twitter.com/@trustless_state">@Trustless_State</a>, Christian Keroles on <a href="www.twitter.com/@reallife_ck">Twitter</a></description>
     <license>The MIT License (MIT)</license>
     <forum></forum>
     <email>leopheard@gmail.com</email>
-    <source>https://github.com/leopheard/</source>
-    <website></website>
+    <source>https://github.com/leopheard/POVCryptoPodcast</source>
+    <website>https://povcryptopod.libsyn.com/</website>
         	<assets>
-			<icon>resources/media/icon.jpg</icon>
-			<fanart>resources/media/fanart.jpg</fanart>
-			<screenshot>resources/media/1.jpg</screenshot>
-			<screenshot>resources/media/2.jpg</screenshot>
-			<screenshot>resources/media/3.jpg</screenshot>
+			<icon>resources/media/logo.jpg</icon>
+			<fanart>resources/media/logo.jpg</fanart>
+			<screenshot>resources/media/logo.jpg</screenshot>
+			<screenshot>resources/media/logo.jpg</screenshot>
+			<screenshot>resources/media/logo.jpg</screenshot>
 		</assets>
   </extension>
 </addon>
