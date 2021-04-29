@@ -9,11 +9,11 @@ def main_menu():
         {
             'label': plugin.get_string(30001), 
             'path': plugin.url_for('episodes1'),
-            'thumbnail': "https://podcastaddict.com/cache/artwork/thumb/2249696"},
+            'thumbnail': "http://static.libsyn.com/p/assets/c/3/2/0/c32018fc4b83505d/POVCRYPTO_LOGO_delivery.jpg"},
         {
             'label': plugin.get_string(30000),
             'path': plugin.url_for('episodes'),
-            'thumbnail': "https://podcastaddict.com/cache/artwork/thumb/2249696"},
+            'thumbnail': "http://static.libsyn.com/p/assets/c/3/2/0/c32018fc4b83505d/POVCRYPTO_LOGO_delivery.jpg"},
     ]
     return items
 

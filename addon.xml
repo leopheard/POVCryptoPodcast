@@ -21,11 +21,11 @@
     <source>https://github.com/leopheard/POVCryptoPodcast</source>
     <website>https://povcryptopod.libsyn.com/</website>
         	<assets>
-			<icon>resources/media/logo.jpg</icon>
-			<fanart>resources/media/logo.jpg</fanart>
-			<screenshot>resources/media/logo.jpg</screenshot>
-			<screenshot>resources/media/logo.jpg</screenshot>
-			<screenshot>resources/media/logo.jpg</screenshot>
+			<icon>resources/media/icon.jpg</icon>
+			<fanart>resources/media/icon.jpg</fanart>
+			<screenshot>resources/media/icon.jpg</screenshot>
+			<screenshot>resources/media/icon.jpg</screenshot>
+			<screenshot>resources/media/icon.jpg</screenshot>
 		</assets>
   </extension>
 </addon>
